@@ -5,10 +5,11 @@ egret res groups loader(Promise)
 ```npm install egret-res-groups-loader --save```
 
 ## example
-```
-alien.ResGroupsLoader.instance.loadResGroups(resGroupNames).then(()=>{
-					//do something
-				},()=>{
-          //do something
-        });
+```javascript
+alien.ResGroupsLoader.instance.loadResGroups(resGroupNames).then(
+	()=>{
+		//do something
+	},()=>{
+    //do something
+  });
 ```
