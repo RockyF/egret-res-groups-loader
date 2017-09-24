@@ -1,0 +1,20 @@
+{
+  "name": "egret-res-groups-loader",
+  "version": "1.0.0",
+  "description": "egret-res-groups-loader",
+  "main": "index.js",
+  "bin": {
+    "egret-res-groups-loader": "egret-res-groups-loader.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "egret",
+    "res",
+    "group",
+    "loader"
+  ],
+  "author": "rockyf",
+  "license": "ISC"
+}

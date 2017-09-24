@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"outFile": "bin/egret-res-groups-loader.js",
+		"declaration": true,
+		"lib": [
+			"es5",
+			"dom",
+			"es2015.promise"
+		]
+	},
+	"files": [
+		"libs/egret.d.ts",
+		"libs/res.d.ts",
+		"src/ResGroupsLoader.ts"
+	]
+}
